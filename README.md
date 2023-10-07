@@ -86,7 +86,7 @@
 >
 > サーバーのところは「[http://localhost:8889/live/whip](http://localhost:8889/live/whip)」を基本にして、中の数字は[mediamtxところの数字](#プログラムの画面でこのwebrtc示す後ろの数字一旦メモしてください)に切り替えって、そしてOBS中で入力してください
 
-![obs-1](https://github.com/Greesea/livehime-with-obs/blob/main/images/setup/obs-.png?raw=true)
+![obs-1](https://github.com/Greesea/livehime-with-obs/blob/main/images/setup/obs-1.png?raw=true)
 
 ### ビリビリライブ姫
 
